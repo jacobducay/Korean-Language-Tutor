@@ -1,4 +1,4 @@
-# streamlit run "P:\Program Files\Python_programs\Study App\chatgpt.py" -- server.address 192.168.0.108 --server.port 8501
+# streamlit run "File_path"
 
 import os
 import sys
