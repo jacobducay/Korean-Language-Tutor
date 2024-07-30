@@ -1,7 +1,7 @@
 # Korean Language Tutor GPT
 
 ## Project Overview
-The Korean Language Tutor is an interactive chat application powered by OpenAI's GPT (Generative Pre-trained Transformer) models, 
+The Korean Language Tutor is an interactive chat application powered by OpenAI's GPT, 
 designed to assist users in practicing and enhancing their Korean language skills. This project integrates a custom-trained language model importing personal data from Ankiweb
 to simulate conversations with a virtual tutor, focusing on specific vocab and grammar that is relevant to what is being learned.
 
